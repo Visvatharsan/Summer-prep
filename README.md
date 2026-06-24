@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Visvatharsan/Summer-prep/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Visvatharsan/Summer-prep/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1480-running-sum-of-1d-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0189-rotate-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Visvatharsan/Summer-prep/tree/master/0647-palindromic-substrings) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
