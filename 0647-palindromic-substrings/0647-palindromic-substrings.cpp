@@ -1,23 +1,20 @@
 class Solution {
 public:
     int countSubstrings(string s) {
-        int p1=0;
-        int p2=0;
         int count=0;
-        while(p1<s.length()){
-            string str = s.substr(p1,p2-p1+1);
-            string rev = str;
-            reverse(str.begin(),str.end());
-            if(str == rev){
-                count++;
-            }
-            if(p2==s.length()-1){
-                p1+=1;
-                p2=p1;
-            }
-            else{
-                p2+=1;
-            }
+        for(int i=0; i<s.length(); i++){
+            count+=expand(s,i,i);
+            count+=expand(s,i,i+1);
+        }
+        return count;
+    }
+
+    int expand(string s, int left, int right){
+        int count=0;
+        while(left>=0 && right<=s.size() && s[left]==s[right]){
+            left--;
+            right++;
+            count++;
         }
         return count;
     }
