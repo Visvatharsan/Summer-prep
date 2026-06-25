@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Visvatharsan/Summer-prep/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Visvatharsan/Summer-prep/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Visvatharsan/Summer-prep/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Visvatharsan/Summer-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Visvatharsan/Summer-prep/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Visvatharsan/Summer-prep/tree/master/0485-max-consecutive-ones) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Visvatharsan/Summer-prep/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Visvatharsan/Summer-prep/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Visvatharsan/Summer-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Visvatharsan/Summer-prep/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Visvatharsan/Summer-prep/tree/master/0647-palindromic-substrings) |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Visvatharsan/Summer-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
