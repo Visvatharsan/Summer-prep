@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Visvatharsan/Summer-prep/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Visvatharsan/Summer-prep/tree/master/0647-palindromic-substrings) |
 ## Prefix Sum
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
