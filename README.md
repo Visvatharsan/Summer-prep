@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Visvatharsan/Summer-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Visvatharsan/Summer-prep/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Visvatharsan/Summer-prep/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/Visvatharsan/Summer-prep/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Visvatharsan/Summer-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Visvatharsan/Summer-prep/tree/master/0566-reshape-the-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Visvatharsan/Summer-prep/tree/master/1338-reduce-array-size-to-the-half) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Visvatharsan/Summer-prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/Summer-prep/tree/master/0242-valid-anagram) |
+| [0506-relative-ranks](https://github.com/Visvatharsan/Summer-prep/tree/master/0506-relative-ranks) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Visvatharsan/Summer-prep/tree/master/1338-reduce-array-size-to-the-half) |
 ## Divide and Conquer
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Visvatharsan/Summer-prep/tree/master/0506-relative-ranks) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Visvatharsan/Summer-prep/tree/master/1338-reduce-array-size-to-the-half) |
 ## Tree
 |  |
