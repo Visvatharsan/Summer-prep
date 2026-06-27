@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Visvatharsan/Summer-prep/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/Visvatharsan/Summer-prep/tree/master/0647-palindromic-substrings) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Visvatharsan/Summer-prep/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Number Theory
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Visvatharsan/Summer-prep/tree/master/0566-reshape-the-matrix) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Visvatharsan/Summer-prep/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Greedy
 |  |
 | ------- |
