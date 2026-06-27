@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Visvatharsan/Summer-prep/tree/master/1338-reduce-array-size-to-the-half) |
 | [1480-running-sum-of-1d-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2643-row-with-maximum-ones](https://github.com/Visvatharsan/Summer-prep/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Visvatharsan/Summer-prep/tree/master/0566-reshape-the-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/Visvatharsan/Summer-prep/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
