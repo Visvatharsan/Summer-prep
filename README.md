@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Visvatharsan/Summer-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Visvatharsan/Summer-prep/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Visvatharsan/Summer-prep/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Visvatharsan/Summer-prep/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Visvatharsan/Summer-prep/tree/master/0506-relative-ranks) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Visvatharsan/Summer-prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/Summer-prep/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Visvatharsan/Summer-prep/tree/master/0506-relative-ranks) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Visvatharsan/Summer-prep/tree/master/1338-reduce-array-size-to-the-half) |
 ## Divide and Conquer
@@ -65,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Visvatharsan/Summer-prep/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Visvatharsan/Summer-prep/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Visvatharsan/Summer-prep/tree/master/0560-subarray-sum-equals-k) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Visvatharsan/Summer-prep/tree/master/1338-reduce-array-size-to-the-half) |
 ## String
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Visvatharsan/Summer-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Visvatharsan/Summer-prep/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -133,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Visvatharsan/Summer-prep/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
