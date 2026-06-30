@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Visvatharsan/Summer-prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Visvatharsan/Summer-prep/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Visvatharsan/Summer-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Visvatharsan/Summer-prep/tree/master/0283-move-zeroes) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Visvatharsan/Summer-prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/Summer-prep/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/Visvatharsan/Summer-prep/tree/master/0647-palindromic-substrings) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Visvatharsan/Summer-prep/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
