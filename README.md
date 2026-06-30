@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Visvatharsan/Summer-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Visvatharsan/Summer-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Visvatharsan/Summer-prep/tree/master/0560-subarray-sum-equals-k) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Visvatharsan/Summer-prep/tree/master/1338-reduce-array-size-to-the-half) |
 ## String
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Visvatharsan/Summer-prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/Summer-prep/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Visvatharsan/Summer-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Visvatharsan/Summer-prep/tree/master/0647-palindromic-substrings) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Visvatharsan/Summer-prep/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3612-process-string-with-special-operations-i](https://github.com/Visvatharsan/Summer-prep/tree/master/3612-process-string-with-special-operations-i) |
@@ -144,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0268-missing-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Visvatharsan/Summer-prep/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Visvatharsan/Summer-prep/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
