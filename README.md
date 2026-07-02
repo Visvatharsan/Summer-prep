@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Visvatharsan/Summer-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Visvatharsan/Summer-prep/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Visvatharsan/Summer-prep/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Visvatharsan/Summer-prep/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Visvatharsan/Summer-prep/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Visvatharsan/Summer-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Visvatharsan/Summer-prep/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Visvatharsan/Summer-prep/tree/master/0647-palindromic-substrings) |
 ## Prefix Sum
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Visvatharsan/Summer-prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/Summer-prep/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Visvatharsan/Summer-prep/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Visvatharsan/Summer-prep/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Visvatharsan/Summer-prep/tree/master/0647-palindromic-substrings) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Visvatharsan/Summer-prep/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3612-process-string-with-special-operations-i](https://github.com/Visvatharsan/Summer-prep/tree/master/3612-process-string-with-special-operations-i) |
