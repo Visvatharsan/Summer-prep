@@ -26,6 +26,7 @@ public:
 
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int x=image[sr][sc];
+        
         if(x != color){
             checker(image, sr,sc,color,x);
         }
