@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Visvatharsan/Summer-prep/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Visvatharsan/Summer-prep/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Visvatharsan/Summer-prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/Summer-prep/tree/master/0242-valid-anagram) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Visvatharsan/Summer-prep/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Visvatharsan/Summer-prep/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/Visvatharsan/Summer-prep/tree/master/0456-132-pattern) |
 ## Monotonic Stack
