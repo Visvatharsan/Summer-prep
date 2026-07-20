@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Visvatharsan/Summer-prep/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Visvatharsan/Summer-prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/Summer-prep/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Visvatharsan/Summer-prep/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Visvatharsan/Summer-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Visvatharsan/Summer-prep/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Visvatharsan/Summer-prep/tree/master/0647-palindromic-substrings) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Visvatharsan/Summer-prep/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Visvatharsan/Summer-prep/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Visvatharsan/Summer-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Visvatharsan/Summer-prep/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/Summer-prep/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Visvatharsan/Summer-prep/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Visvatharsan/Summer-prep/tree/master/0938-range-sum-of-bst) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Visvatharsan/Summer-prep/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Visvatharsan/Summer-prep/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Visvatharsan/Summer-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Visvatharsan/Summer-prep/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/Summer-prep/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Visvatharsan/Summer-prep/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Visvatharsan/Summer-prep/tree/master/0938-range-sum-of-bst) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Visvatharsan/Summer-prep/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Visvatharsan/Summer-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Visvatharsan/Summer-prep/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/Summer-prep/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/Visvatharsan/Summer-prep/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/Visvatharsan/Summer-prep/tree/master/0938-range-sum-of-bst) |
@@ -241,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Visvatharsan/Summer-prep/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Visvatharsan/Summer-prep/tree/master/0938-range-sum-of-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Visvatharsan/Summer-prep/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
