@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Visvatharsan/Summer-prep/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Visvatharsan/Summer-prep/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/Summer-prep/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/Visvatharsan/Summer-prep/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Visvatharsan/Summer-prep/tree/master/0733-flood-fill) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Visvatharsan/Summer-prep/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Visvatharsan/Summer-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Visvatharsan/Summer-prep/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/Summer-prep/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/Visvatharsan/Summer-prep/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Visvatharsan/Summer-prep/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/Visvatharsan/Summer-prep/tree/master/0938-range-sum-of-bst) |
 ## Linked List
@@ -252,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Visvatharsan/Summer-prep/tree/master/0257-binary-tree-paths) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Visvatharsan/Summer-prep/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Visvatharsan/Summer-prep/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
