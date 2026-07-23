@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Visvatharsan/Summer-prep/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Visvatharsan/Summer-prep/tree/master/0733-flood-fill) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Visvatharsan/Summer-prep/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Visvatharsan/Summer-prep/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Visvatharsan/Summer-prep/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Visvatharsan/Summer-prep/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/Visvatharsan/Summer-prep/tree/master/0938-range-sum-of-bst) |
+| [2685-count-the-number-of-complete-components](https://github.com/Visvatharsan/Summer-prep/tree/master/2685-count-the-number-of-complete-components) |
 ## Linked List
 |  |
 | ------- |
@@ -258,8 +260,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Visvatharsan/Summer-prep/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/Visvatharsan/Summer-prep/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Visvatharsan/Summer-prep/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/Visvatharsan/Summer-prep/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
