@@ -2,64 +2,50 @@ class Solution {
 public:
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
         unordered_map<int, vector<int>> adj;
-        vector<bool> visited(n, false);
-        vector<vector<bool>> edgeM(n, vector<bool>(n, false));
-
-        // Build adjacency list
-        for (auto &i : edges) {
+        unordered_map<int, bool> visited;
+        int ans = 0;
+        for (auto i : edges) {
             adj[i[0]].push_back(i[1]);
             adj[i[1]].push_back(i[0]);
         }
 
-        // Build adjacency matrix
-        for (auto &i : edges) {
-            edgeM[i[0]][i[1]] = true;
-            edgeM[i[1]][i[0]] = true;
+        for (auto i : adj) {
+            visited[i.first] = false;
         }
 
-        int ans = 0;
+        for(int i =0; i<n; i++) {
+            if (visited[i]) {
+                continue;
+            }
+            int nodes=0;
+            int edges = 0;
 
-        // Traverse every node (important for isolated nodes)
-        for (int node = 0; node < n; node++) {
-            if (visited[node]) continue;
-
-            set<int> s;
+            int node = i;
             stack<int> st;
-
             st.push(node);
-            visited[node] = true;
+            visited[node]=true;
 
             while (!st.empty()) {
                 int curr = st.top();
                 st.pop();
-
-                s.insert(curr);
-
-                for (int x : adj[curr]) {
-                    if (visited[x]) continue;
-
+                
+                nodes++;
+                edges+=adj[curr].size();
+                for (auto x : adj[curr]) {
+                    if (visited[x]) {
+                        continue;
+                    }
                     visited[x] = true;
                     st.push(x);
                 }
             }
 
-            bool complete = true;
+            edges/=2;
 
-            for (int u : s) {
-                for (int v : s) {
-                    if (u == v) continue;
-
-                    if (!edgeM[u][v]) {
-                        complete = false;
-                        break;
-                    }
-                }
-                if (!complete) break;
+            if(edges == nodes*(nodes-1)/2){
+                ans++;
             }
-
-            if (complete) ans++;
         }
-
         return ans;
     }
 };
