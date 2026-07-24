@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Visvatharsan/Summer-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Visvatharsan/Summer-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Visvatharsan/Summer-prep/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Visvatharsan/Summer-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Visvatharsan/Summer-prep/tree/master/0283-move-zeroes) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Visvatharsan/Summer-prep/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/Visvatharsan/Summer-prep/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/Visvatharsan/Summer-prep/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/Visvatharsan/Summer-prep/tree/master/0733-flood-fill) |
 | [2643-row-with-maximum-ones](https://github.com/Visvatharsan/Summer-prep/tree/master/2643-row-with-maximum-ones) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Visvatharsan/Summer-prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Visvatharsan/Summer-prep/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Visvatharsan/Summer-prep/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Visvatharsan/Summer-prep/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/Summer-prep/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Visvatharsan/Summer-prep/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Visvatharsan/Summer-prep/tree/master/0733-flood-fill) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Visvatharsan/Summer-prep/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Visvatharsan/Summer-prep/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Visvatharsan/Summer-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Visvatharsan/Summer-prep/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/Summer-prep/tree/master/0404-sum-of-left-leaves) |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Visvatharsan/Summer-prep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Visvatharsan/Summer-prep/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Visvatharsan/Summer-prep/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
