@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Visvatharsan/Summer-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Visvatharsan/Summer-prep/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/Visvatharsan/Summer-prep/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Visvatharsan/Summer-prep/tree/master/0994-rotting-oranges) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Visvatharsan/Summer-prep/tree/master/1338-reduce-array-size-to-the-half) |
 | [1480-running-sum-of-1d-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1480-running-sum-of-1d-array) |
 | [1646-get-maximum-in-generated-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1646-get-maximum-in-generated-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Visvatharsan/Summer-prep/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/Visvatharsan/Summer-prep/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/Visvatharsan/Summer-prep/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Visvatharsan/Summer-prep/tree/master/0994-rotting-oranges) |
 | [2643-row-with-maximum-ones](https://github.com/Visvatharsan/Summer-prep/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Visvatharsan/Summer-prep/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Visvatharsan/Summer-prep/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Visvatharsan/Summer-prep/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Visvatharsan/Summer-prep/tree/master/0994-rotting-oranges) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Visvatharsan/Summer-prep/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Visvatharsan/Summer-prep/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
