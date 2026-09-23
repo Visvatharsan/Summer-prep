@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Visvatharsan/Summer-prep/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/Visvatharsan/Summer-prep/tree/master/0994-rotting-oranges) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Visvatharsan/Summer-prep/tree/master/1338-reduce-array-size-to-the-half) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Visvatharsan/Summer-prep/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1480-running-sum-of-1d-array) |
 | [1646-get-maximum-in-generated-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1646-get-maximum-in-generated-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Visvatharsan/Summer-prep/tree/master/0506-relative-ranks) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Visvatharsan/Summer-prep/tree/master/1338-reduce-array-size-to-the-half) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Visvatharsan/Summer-prep/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Visvatharsan/Summer-prep/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Visvatharsan/Summer-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Visvatharsan/Summer-prep/tree/master/0560-subarray-sum-equals-k) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Visvatharsan/Summer-prep/tree/master/1338-reduce-array-size-to-the-half) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Visvatharsan/Summer-prep/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Visvatharsan/Summer-prep/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Visvatharsan/Summer-prep/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Visvatharsan/Summer-prep/tree/master/0196-delete-duplicate-emails) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Visvatharsan/Summer-prep/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
