@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1480-running-sum-of-1d-array) |
 | [1646-get-maximum-in-generated-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1646-get-maximum-in-generated-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Visvatharsan/Summer-prep/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2643-row-with-maximum-ones](https://github.com/Visvatharsan/Summer-prep/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Visvatharsan/Summer-prep/tree/master/0506-relative-ranks) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Visvatharsan/Summer-prep/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Visvatharsan/Summer-prep/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Visvatharsan/Summer-prep/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Visvatharsan/Summer-prep/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Visvatharsan/Summer-prep/tree/master/0387-first-unique-character-in-a-string) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Visvatharsan/Summer-prep/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Depth-First Search
 |  |
 | ------- |
