@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Visvatharsan/Summer-prep/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Visvatharsan/Summer-prep/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Visvatharsan/Summer-prep/tree/master/0876-middle-of-the-linked-list) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Visvatharsan/Summer-prep/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Visvatharsan/Summer-prep/tree/master/0647-palindromic-substrings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Visvatharsan/Summer-prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2299-strong-password-checker-ii](https://github.com/Visvatharsan/Summer-prep/tree/master/2299-strong-password-checker-ii) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Visvatharsan/Summer-prep/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Visvatharsan/Summer-prep/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3612-process-string-with-special-operations-i](https://github.com/Visvatharsan/Summer-prep/tree/master/3612-process-string-with-special-operations-i) |
 ## Number Theory
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1338-reduce-array-size-to-the-half](https://github.com/Visvatharsan/Summer-prep/tree/master/1338-reduce-array-size-to-the-half) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Visvatharsan/Summer-prep/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
