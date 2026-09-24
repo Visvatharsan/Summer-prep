@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Visvatharsan/Summer-prep/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0268-missing-number) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Visvatharsan/Summer-prep/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Queue
 |  |
 | ------- |
