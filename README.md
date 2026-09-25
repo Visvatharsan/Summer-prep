@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Visvatharsan/Summer-prep/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Visvatharsan/Summer-prep/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Visvatharsan/Summer-prep/tree/master/1572-matrix-diagonal-sum) |
 | [1646-get-maximum-in-generated-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1646-get-maximum-in-generated-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Visvatharsan/Summer-prep/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Visvatharsan/Summer-prep/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/Visvatharsan/Summer-prep/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Visvatharsan/Summer-prep/tree/master/0994-rotting-oranges) |
+| [1572-matrix-diagonal-sum](https://github.com/Visvatharsan/Summer-prep/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/Visvatharsan/Summer-prep/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
