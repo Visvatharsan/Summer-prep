@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Visvatharsan/Summer-prep/tree/master/1572-matrix-diagonal-sum) |
 | [1646-get-maximum-in-generated-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1646-get-maximum-in-generated-array) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Visvatharsan/Summer-prep/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Visvatharsan/Summer-prep/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Visvatharsan/Summer-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Visvatharsan/Summer-prep/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
