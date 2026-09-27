@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Visvatharsan/Summer-prep/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Visvatharsan/Summer-prep/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Visvatharsan/Summer-prep/tree/master/0746-min-cost-climbing-stairs) |
+| [0845-longest-mountain-in-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0845-longest-mountain-in-array) |
 | [0994-rotting-oranges](https://github.com/Visvatharsan/Summer-prep/tree/master/0994-rotting-oranges) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Visvatharsan/Summer-prep/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Visvatharsan/Summer-prep/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Visvatharsan/Summer-prep/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Visvatharsan/Summer-prep/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Visvatharsan/Summer-prep/tree/master/0647-palindromic-substrings) |
+| [0845-longest-mountain-in-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Visvatharsan/Summer-prep/tree/master/0876-middle-of-the-linked-list) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Visvatharsan/Summer-prep/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Sorting
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Visvatharsan/Summer-prep/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Visvatharsan/Summer-prep/tree/master/0746-min-cost-climbing-stairs) |
+| [0845-longest-mountain-in-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0845-longest-mountain-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -336,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Visvatharsan/Summer-prep/tree/master/0075-sort-colors) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
