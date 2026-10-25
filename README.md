@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Visvatharsan/Summer-prep/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Visvatharsan/Summer-prep/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Visvatharsan/Summer-prep/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Visvatharsan/Summer-prep/tree/master/0283-move-zeroes) |
 | [0456-132-pattern](https://github.com/Visvatharsan/Summer-prep/tree/master/0456-132-pattern) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Visvatharsan/Summer-prep/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Visvatharsan/Summer-prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Visvatharsan/Summer-prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/Summer-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Visvatharsan/Summer-prep/tree/master/0506-relative-ranks) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Visvatharsan/Summer-prep/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Visvatharsan/Summer-prep/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Visvatharsan/Summer-prep/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/Visvatharsan/Summer-prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/Summer-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Visvatharsan/Summer-prep/tree/master/0387-first-unique-character-in-a-string) |
