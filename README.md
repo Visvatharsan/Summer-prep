@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Visvatharsan/Summer-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Visvatharsan/Summer-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Visvatharsan/Summer-prep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Visvatharsan/Summer-prep/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Visvatharsan/Summer-prep/tree/master/0209-minimum-size-subarray-sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Visvatharsan/Summer-prep/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Visvatharsan/Summer-prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Visvatharsan/Summer-prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Visvatharsan/Summer-prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/Summer-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0268-missing-number) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Visvatharsan/Summer-prep/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Visvatharsan/Summer-prep/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Visvatharsan/Summer-prep/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Visvatharsan/Summer-prep/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Visvatharsan/Summer-prep/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Visvatharsan/Summer-prep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Visvatharsan/Summer-prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Visvatharsan/Summer-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Visvatharsan/Summer-prep/tree/master/0268-missing-number) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Visvatharsan/Summer-prep/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Visvatharsan/Summer-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Visvatharsan/Summer-prep/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Depth-First Search
@@ -350,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Visvatharsan/Summer-prep/tree/master/0845-longest-mountain-in-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Visvatharsan/Summer-prep/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
