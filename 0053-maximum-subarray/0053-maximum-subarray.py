@@ -1,8 +1,10 @@
 class Solution:
     def maxSubArray(self, nums: list[int]) -> int:
-        gmax=-inf
-        lmax=0
+        lsum=0
+        gsum=float('-inf')
         for i in nums:
-            lmax=max(lmax+i,i)
-            gmax=max(gmax,lmax)
-        return gmax
+            lsum=max(lsum+i, i)
+            gsum=max(gsum,lsum)
+        return gsum
+
+        
